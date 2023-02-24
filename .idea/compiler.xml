@@ -7,14 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Numbers" />
+        <module name="Extra" />
         <module name="Booleans" />
         <module name="Inheritance" />
         <module name="Basics" />
         <module name="Constructors" />
         <module name="ConditionalsIF" />
+        <module name="Arrays" />
         <module name="Strings" />
+        <module name="Chars" />
         <module name="Classes" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
